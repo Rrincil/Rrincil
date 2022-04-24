@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rrincil
+- 👋 Hi, I’m Rrincil
 - 👀 I’m interested in building some project with any popular frame like Vue React Jquery and so on
 - 🌱 I’m currently learning React Nodejs
 - If you want to work on a project with me, or if you have any questions, you can contact me by email.
@@ -7,7 +7,7 @@
 Rrincil/Rrincil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- 👋嗨，我是@Rrincil
+- 👋嗨，我是 Rrincil
 - 👀 我有兴趣使用任何流行的框架（如 Vue React Jquery 等）构建一些项目
 - 🌱 我目前正在学习 React Nodejs
 - 如果你想和我一起做一个项目，或者如果你有任何问题，你可以通过电子邮件与我联系。
